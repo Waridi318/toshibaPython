@@ -1,1 +1,1 @@
-This repositories includes basics of Python covered int the emobilis toshiba web development class
+This repositories includes basics of Python covered in the emobilis toshiba web development class
